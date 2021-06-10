@@ -17,3 +17,8 @@
 ```
 
 ![traffic_lights15](https://user-images.githubusercontent.com/68395698/121476631-e0c95100-ca01-11eb-923e-9f7b9bd9a874.jpg)
+
+### todo
+- Add pre-processing : zoom or crop
+- Check exact frames of AIGO
+- Set the box location
