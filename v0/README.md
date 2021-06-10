@@ -3,6 +3,7 @@
 ### First Test
 - dataset : 7800
 - training time : 15h
+- model : yolov5m
 
 ### train
 ```
