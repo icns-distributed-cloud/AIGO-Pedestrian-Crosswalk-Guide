@@ -8,7 +8,6 @@
 ### Train
 ```
   python3 train.py --img 416 --batch 72 --epochs 100 --data ./dataset/data.yaml --cfg ./models/yolov5m.yaml --weights yolov5m.pt --name koren_light
-
 ```
 
 ### Test
