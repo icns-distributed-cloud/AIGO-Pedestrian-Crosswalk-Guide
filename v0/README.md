@@ -17,10 +17,6 @@
 
 ![traffic_lights15](https://user-images.githubusercontent.com/68395698/121476631-e0c95100-ca01-11eb-923e-9f7b9bd9a874.jpg)
 
-### Reference
-```
-docker pull ultralytics/yolov5:v5.0
-```
 
 
 ### Todo
