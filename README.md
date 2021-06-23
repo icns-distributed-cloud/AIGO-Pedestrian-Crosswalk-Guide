@@ -1,4 +1,4 @@
-# Pedestrian-Traffic-Lights-Recognition
+# Pedestrian-Crossing-and-Traffic-Light-Recognition
 
 
 * YOLOv5
