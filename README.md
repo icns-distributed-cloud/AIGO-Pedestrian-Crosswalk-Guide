@@ -16,6 +16,7 @@
     0 0.291543 0.288690 0.048363 0.032407
     ```
   * Convert YOLO Style to (x1, y1, x2, y2) Bounding Box Style
+      
       ( top left x, top left y, bottom right x, bottom right y )
 
   * Convert formula
