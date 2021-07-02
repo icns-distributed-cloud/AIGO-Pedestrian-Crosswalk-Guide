@@ -4,7 +4,7 @@
 
 ## Preprocessing
 
-### Convert Bounding Box Style to draw lines
+### Convert bounding box style to draw lines
 * YOLO Style
   ( center of x, center of y, width, height )
   * labels example
