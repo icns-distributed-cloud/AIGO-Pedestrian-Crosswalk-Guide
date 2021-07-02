@@ -1,6 +1,6 @@
 # Pedestrian-Crossing-and-Traffic-Light-Recognition
 
-### INDEX
+### Index
 
 ## Preprocessing
 
