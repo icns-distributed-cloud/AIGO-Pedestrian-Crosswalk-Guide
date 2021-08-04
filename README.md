@@ -1,9 +1,4 @@
-# Pedestrian-Crossing-and-Traffic-Light-Recognition
-
-### Index
-
-
-## Pedestrian Traffic Light Recognition
+# Pedestrian-Crossing-and-Traffic-Light-Detection
 
 
 ### Preprocessing
