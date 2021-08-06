@@ -2,19 +2,11 @@
 
 
 ### Preprocessing
-  Positioning of traffic ligths in the AIGO's field of view and zoom in on input images to better recognize distant traffic lights 
-  #### Convert the bounding box style to draw lines
-  * YOLO Style
-    ( center of x, center of y, width, height )
-  * labels example
-    ```
-    0 0.291543 0.288690 0.048363 0.032407
-    ```
-  * Convert YOLO Style to ( top left x, top left y, bottom right x, bottom right y ) Bounding Box Style
-      
-     
+  #### 바운딩 박스 스타일 변환
+  * YOLO Style : ( center of x, center of y, width, height )
+  * ( top left x, top left y, bottom right x, bottom right y ) 바운딩박스 스타일로 변환
 
-  * Convert formula
+  * 변환 및 결과 확인
     * [convert and draw lines](https://github.com/icns-distributed-cloud/Pedestrian-Crossing-and-Traffic-Light-Recognition/blob/master/convert_and_draw_bounding_boxes.py)
 
 
