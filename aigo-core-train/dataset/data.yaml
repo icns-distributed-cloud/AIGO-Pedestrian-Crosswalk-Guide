@@ -1,5 +1,0 @@
-train: ./dataset/train/images
-val: ./dataset/valid/images
-
-nc: 2
-names: ['green_light', 'red_light']
